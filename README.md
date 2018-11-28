@@ -3,17 +3,17 @@
 
 In this repository you will find code snippets and documentations to help you starting your project as a DevOps.
 
-## <a href="./Infrastructure/README.md">Infrastructure</a>
+## <a href="./Infrastructure/infrastructure.html">Infrastructure</a>
 
-* <a href="./Infrastructure/MicrosoftAzure/README.md">MicrosoftAzure</a>
-* <a href="./Infrastructure/AmazonWebServices/README.md">AmazonWebServices</a>
+* <a href="./Infrastructure/MicrosoftAzure/azure.html">MicrosoftAzure</a>
+* <a href="./Infrastructure/AmazonWebServices/aws.html">AmazonWebServices</a>
 
-## <a href="./Containers/README.md">Containers</a>
+## <a href="./Containers/containers.html">Containers</a>
 
-* <a href="./Containers/Docker/README.md">Docker</a>
-* <a href="./Containers/Kubernetes/README.md">Kubernetes</a>
+* <a href="./Containers/Docker/docker.html">Docker</a>
+* <a href="./Containers/Kubernetes/kub.html">Kubernetes</a>
 
-## <a href="./Security/README.md">Security</a>
+## <a href="./Security/security.html">Security</a>
 
-* <a href="./Security/Nginx/README.md">Nginx</a>
-* <a href="./Security/TransportLayerSecurity/README.md">TransportLayerSecurity</a>
+* <a href="./Security/Nginx/nginx.html">Nginx</a>
+* <a href="./Security/TransportLayerSecurity/tls.html">TransportLayerSecurity</a>
